@@ -1,5 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date:
+18-11-2026
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -103,8 +104,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![alt text](<Screenshot 2026-10-23 at 11.02.59 AM.png>)
-![alt text](<Screenshot 2026-10-23 at 11.04.04 AM-1.png>)
-
+![alt text](<Screenshot 2026-11-17 at 2.35.07 PM.png>)
 
 
 
